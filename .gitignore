@@ -7,3 +7,4 @@
 .serverless
 *.iml
 .DS_Store
+*-lock.json
